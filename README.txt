@@ -12,12 +12,10 @@
      \__\/                
      
 --------------------------------------------------------------------
-Hi, I'm Mikhail Kirichenko. I'm a creative senior frontend developer
-with a lot of experience in this field. I am passionate about 
+Hi, I'm Mikhail Kirichenko. I am passionate about 
 web-technologies, user friendly interfaces with complex animations
 and great visual staff.
 
-💞️ In love with Angular
 --------------------------------------------------------------------
 
 My Personal Page: https://mishqua.dev/
